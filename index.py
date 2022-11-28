@@ -2,7 +2,8 @@ mediana=int()
 resp=str()
 listaN=[]
 
-print("Escolha um intevalo de números:")
+print("""Olá, escolha um intervalo de números, por exemplo de 1 a 100, 
+depois escolha um número dentro desse intevalo e eu tentarei adivinhar!\n""")
 
 #Coleta dados do usuário
 nMin=int(input("Qual é o menor número do seu intervalo?\n"))
